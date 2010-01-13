@@ -1,0 +1,55 @@
+.TH A11YBOT 1 "January 12, 2010"
+
+.SH NAME
+a11ybot \- Retweet messages with especified search terms to twitter
+
+.SH SYNOPSIS
+.B a11ybot
+.RI [ options ]
+
+.SH DESCRIPTION
+The \fBa11ybot\fP script permit to retweet messages with especified
+search terms to twitter
+
+.SH OPTIONS
+
+.TP
+.B \-h, \-\-help
+Show help message and exit.
+.TP
+.B \-u, \-\-username
+Twitter username.
+.TP
+.B \-p, \-\-password
+Twitter password.
+.TP
+.B \-s, \-\-search
+Search term to retweet.
+.TP
+.B \-l, \-\-lang
+Restricts retweets to the given language, given by an \fBISO 639-1\fP code.
+.TP
+.B \-v, \-\-verbose
+Explain what is being done.
+.TP
+.B \-q, \-\-quiet
+Suppress what is being done.
+
+.SH FILES
+
+\fI${HOME}/.a11ybotrc\fP
+    The personal configuration file for a11ybot.
+
+.SH EXAMPLES
+
+\fBa11ybot -u username -p password -s "#mundoaccesible" -s "#a11y"\fP
+
+.SH BUGS
+
+Please report your bugs http://github.com/milmazz/a11ybot/issues
+
+.SH AUTHOR
+a11ybot was written by Milton Mazzarri <milmazz@gmail.com>.
+
+.PP
+This manual page was written by Milton Mazzarri <milmazz@gmail.com>

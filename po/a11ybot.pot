@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2010-01-12 17:52+VET\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: a11ybot/__init__.py:85
+msgid "%prog [options]"
+msgstr ""
+
+#: a11ybot/__init__.py:86
+msgid "Retweet messages with especified search terms to twitter"
+msgstr ""
+
+#: a11ybot/__init__.py:89
+msgid "Twitter username"
+msgstr ""
+
+#: a11ybot/__init__.py:90
+msgid "Twitter password"
+msgstr ""
+
+#: a11ybot/__init__.py:91
+msgid "Search term to retweet"
+msgstr ""
+
+#: a11ybot/__init__.py:92
+msgid "Restricts retweets to the given language, given                 by an 'ISO 639-1' code (default: %default)"
+msgstr ""
+
+#: a11ybot/__init__.py:94
+msgid "Explain what is being done (default: %default)"
+msgstr ""
+
+#: a11ybot/__init__.py:95
+msgid "Suppress what is being done"
+msgstr ""
+

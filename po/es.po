@@ -1,0 +1,53 @@
+# a11ybot 
+# Copyright (C) 2010 Milton Mazzarri
+# Milton Mazzarri <milmazz@gmail.com>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: a11ybot 0.1dev\n"
+"POT-Creation-Date: 2010-01-12 12:54+VET\n"
+"PO-Revision-Date: 2010-01-12 14:02-0400\n"
+"Last-Translator: Milton Mazzarri <milmazz@gmail.com>\n"
+"Language-Team: Milton Mazzarri <milmazz@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+#: a11ybot.py:79
+msgid "%prog [options]"
+msgstr "%prog [opciones]"
+
+#: a11ybot.py:80
+msgid "Retweet messages with especified search terms to twitter"
+msgstr "Reenviar mensajes con un término de búsqueda especificado a Twitter"
+
+#: a11ybot.py:83
+#: a11ybot.py:89
+msgid "Twitter username"
+msgstr "Nombre de usuario en Twitter"
+
+#: a11ybot.py:84
+#: a11ybot.py:90
+msgid "Twitter password"
+msgstr "Contraseña en Twitter"
+
+#: a11ybot.py:85
+msgid "Search term to retweet"
+msgstr "Término de búsqueda a reenviar"
+
+#: a11ybot.py:86
+#: a11ybot.py:92
+msgid "Restricts retweets to the given language, given                 by an 'ISO 639-1' code (default: %default)"
+msgstr "Restringir el reenvío de mensajes a un lenguaje dado, siguiendo el código 'ISO 639-1' (valor por omisión: %default)"
+
+#: a11ybot.py:88
+#: a11ybot.py:94
+msgid "Explain what is being done (default: %default)"
+msgstr "Explicar que fue hecho (valor por omisión: %default)"
+
+#: a11ybot.py:89
+#: a11ybot.py:95
+msgid "Suppress what is being done"
+msgstr "Suprima la información acerca de lo que es hecho"
+
