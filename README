@@ -3,6 +3,7 @@ a11ybot: A twitter client for Retweet some search terms
 Features:
  + Support inline parameters.
  + Support config file parameters.
+ + Support i18n and l10n.
  + Uses the excelent twitter library for Python, Tweepy.
 
 Bug Tracker: http://github.com/milmazz/a11ybot/issues
