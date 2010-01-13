@@ -38,11 +38,17 @@ Suppress what is being done.
 .SH FILES
 
 \fI${HOME}/.a11ybotrc\fP
-    The personal configuration file for a11ybot.
+    The personal configuration file for a11ybot. Please follow this format:
+
+.B    [a11ybot]
+    username = username
+    password = password
+    search = #mundoaccesible #accesibilidad
+    language = es
 
 .SH EXAMPLES
 
-\fBa11ybot -u username -p password -s "#mundoaccesible" -s "#a11y"\fP
+\fBa11ybot -u username -p password -s "#mundoaccesible" -s "#accesibilidad"\fP
 
 .SH BUGS
 
